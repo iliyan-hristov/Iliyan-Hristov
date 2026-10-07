@@ -30,4 +30,4 @@ Career Goal
 I am currently looking for a Junior Java Developer / Junior Java Software Engineer opportunity where I can contribute to real-world projects, learn from experienced developers and continue growing as a Java backend engineer.
 
 📍 Bulgaria
-🔗 LinkedIn
+🔗 linkedin.com/in/iliyan-hristov-934798420
